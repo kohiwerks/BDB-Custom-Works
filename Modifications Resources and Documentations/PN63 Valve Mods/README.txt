@@ -12,7 +12,7 @@ Teflon Tape
 (INSTRUCTIONS)
 
 Edit the Plain Steam Knob to hold an M4 screw of your choice and print it with 4mm of the threads sticking out the top
-Print all Parts (USE 100% Infill and ABS Only for all parts, 20% infill on the Knob minimum is acceptable)
+Print all Parts (USE 100% Infill and ABS Only for all parts, 20% infill on the Knob minimum is acceptable, use 0.12 Layer Height if possible, especially for the small parts and make sure your printer is calibrated to print an accurate scale)
 Superglue your M4 Screw to the Knob
 Wrap your push lock fittings with Teflon and thread into the PN63 Valve
 Attach a 4mm OD Teflon tube of 35mm length to the bottom of the PN63 Valve
